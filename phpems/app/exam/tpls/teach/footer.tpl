@@ -3,8 +3,8 @@
 		<div class="main itembox">
 			<div class="col-xs-12">
 				<ul class="list-unstyled">
-					<li class="text-center"><a href="">PHPEMS在线模拟考试系统 著作权登记号：2013 SR 113189</a></li>
-					<li class="text-center"><a href="">Copyright © phpems.net  2015-2016</a></li>
+					<li class="text-center"><a href="">transcosmos内部考试系统 著作权登记号：2013 SR 113189</a></li>
+					<li class="text-center"><a href="">Copyright © transcosmos.net  2015-2016</a></li>
 				</ul>
 			</div>
 		</div>
